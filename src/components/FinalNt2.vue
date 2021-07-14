@@ -35,8 +35,7 @@
     },
     
     methods: {
- enviar(){
-        }
+ 
         },
       
 
